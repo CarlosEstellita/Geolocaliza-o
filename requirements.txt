@@ -1,6 +1,10 @@
 streamlit
 pandas
 folium
+streamlit-folium
 geopy
+geopy.geocoders
+geopy.distance
+time
 matplotlib
 seaborn
