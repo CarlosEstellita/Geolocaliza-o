@@ -8,7 +8,7 @@ from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 from time import sleep
 
-st.set_option('deprecation.showPyplotGlobalUse', False) # comando para remover Warnings
+#st.set_option('deprecation.showPyplotGlobalUse', False) # comando para remover Warnings
 
 @st.cache_data # guarda o resultado da função em cache.
 def carregar_e_geocodificar_dados():
